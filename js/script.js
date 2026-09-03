@@ -1,4 +1,4 @@
-// Esperar a que todo el documento HTML esté completamente cargado
+
 document.addEventListener('DOMContentLoaded', function() {
   
   // 1. Obtener la referencia del botón mediante su ID ('btnSaludar')
